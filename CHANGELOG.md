@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.3.0
+
+- Added natural peach-pink blush under the eyes based on refreshed visual references.
+- Polished the cute face with brighter teal eyes and a tiny curved mouth instead of a red dot.
+- Softened the overall silhouette with a rounder head and cleaner proportions.
+- Regenerated the full animation set, QA contact sheet, and preview videos.
+
 ## v1.2.0
 
 - Revised ground movement so walking/running uses the limbs instead of large ear flaps.
