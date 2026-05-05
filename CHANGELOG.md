@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.2.0
+
+- Revised ground movement so walking/running uses the limbs instead of large ear flaps.
+- Kept the full body visible in the horizontal movement rows to avoid half-body-looking frames.
+- Reworked airborne movement so the pet floats by ear motion while the limbs stay relaxed.
+- Regenerated QA contact sheet and animation preview videos.
+
 ## v1.1.0
 
 - Refined the head silhouette to reduce the raised or pointed crown feeling.

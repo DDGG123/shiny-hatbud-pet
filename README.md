@@ -14,6 +14,7 @@ Historical release assets are stored under `releases/`:
 
 - `releases/v1.0.0/`: first accepted version.
 - `releases/v1.1.0/`: rounded-head and smoother ear-root iteration.
+- `releases/v1.2.0/`: movement revision with clearer ground locomotion and ear-powered floating.
 
 ## Quick Share
 
@@ -51,9 +52,9 @@ shiny-hatbud/
 
 ## Current Version
 
-`v1.1.0` is the current Shiny Hatbud pet version.
+`v1.2.0` is the current Shiny Hatbud pet version.
 
-It refines the head silhouette and ear-root shape while keeping the original cute face. It also improves the flexible ear motion in running, waiting, and jumping animations.
+It keeps the rounded v1.1.0 look, then revises movement animation: ground movement now uses the limbs with the full body visible, while the airborne row relies on flexible ear motion with only gentle limb sway.
 
 ## Repository Layout
 
@@ -63,10 +64,12 @@ pet/
   spritesheet.webp
 dist/
   shiny-hatbud-latest.zip
+  shiny-hatbud-v1.2.0.zip
   shiny-hatbud-v1.1.0.zip
 releases/
   v1.0.0/
   v1.1.0/
+  v1.2.0/
 CHANGELOG.md
 LICENSE
 NOTICE.md
