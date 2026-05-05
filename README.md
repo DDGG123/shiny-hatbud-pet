@@ -1,8 +1,19 @@
 # Shiny Hatbud
 
+**English** | [简体中文](README.zh-CN.md)
+
 Fan-made Codex pet spritesheet for a shiny Daermaodou / 大耳帽兜-inspired companion.
 
-This repository stores the installable Codex pet package plus release snapshots and QA artifacts.
+This repository stores the installable Codex pet package, release snapshots, validation reports, QA contact sheets, and animation preview videos.
+
+## Preview
+
+The current installable package is in `pet/`.
+
+Historical release assets are stored under `releases/`:
+
+- `releases/v1.0.0/`: first accepted version.
+- `releases/v1.1.0/`: rounded-head and smoother ear-root iteration.
 
 ## Install
 
@@ -22,12 +33,23 @@ shiny-hatbud/
 
 ## Current Version
 
-`v1.1.0` is the current Shiny Hatbud pet version. It refines the head silhouette and ear-root shape while keeping the same cute original face.
+`v1.1.0` is the current Shiny Hatbud pet version.
 
-## Releases
+It refines the head silhouette and ear-root shape while keeping the original cute face. It also improves the flexible ear motion in running, waiting, and jumping animations.
 
-- `releases/v1.0.0/` contains the initial accepted pet package and QA files.
-- `releases/v1.1.0/` contains the rounded-head iteration, QA files, and animation preview videos.
+## Repository Layout
+
+```text
+pet/
+  pet.json
+  spritesheet.webp
+releases/
+  v1.0.0/
+  v1.1.0/
+CHANGELOG.md
+LICENSE
+NOTICE.md
+```
 
 ## Notes
 
