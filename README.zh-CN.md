@@ -15,6 +15,24 @@
 - `releases/v1.0.0/`：第一次接受的初始版本。
 - `releases/v1.1.0/`：头部轮廓和耳根形状优化后的迭代版本。
 
+## 快速分享
+
+直接发送这个包链接即可：
+
+[下载 shiny-hatbud-latest.zip](https://github.com/DDGG123/shiny-hatbud-pet/raw/main/dist/shiny-hatbud-latest.zip)
+
+zip 中已经包含可直接复制的 `shiny-hatbud/` 文件夹。解压后，将这个文件夹移动到：
+
+```text
+%USERPROFILE%\.codex\pets\
+```
+
+如果对方下载或克隆了整个仓库，也可以直接运行：
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\install.ps1
+```
+
 ## 安装
 
 将 `pet/` 目录中的文件复制到你的 Codex 宠物目录：
@@ -43,6 +61,9 @@ shiny-hatbud/
 pet/
   pet.json
   spritesheet.webp
+dist/
+  shiny-hatbud-latest.zip
+  shiny-hatbud-v1.1.0.zip
 releases/
   v1.0.0/
   v1.1.0/

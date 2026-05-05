@@ -15,6 +15,24 @@ Historical release assets are stored under `releases/`:
 - `releases/v1.0.0/`: first accepted version.
 - `releases/v1.1.0/`: rounded-head and smoother ear-root iteration.
 
+## Quick Share
+
+Send this direct package link:
+
+[Download shiny-hatbud-latest.zip](https://github.com/DDGG123/shiny-hatbud-pet/raw/main/dist/shiny-hatbud-latest.zip)
+
+The zip contains a ready-to-copy `shiny-hatbud/` folder. Unzip it, then move that folder into:
+
+```text
+%USERPROFILE%\.codex\pets\
+```
+
+If someone downloads or clones the repository instead, they can run:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\install.ps1
+```
+
 ## Install
 
 Copy the files in `pet/` into your Codex pet directory:
@@ -43,6 +61,9 @@ It refines the head silhouette and ear-root shape while keeping the original cut
 pet/
   pet.json
   spritesheet.webp
+dist/
+  shiny-hatbud-latest.zip
+  shiny-hatbud-v1.1.0.zip
 releases/
   v1.0.0/
   v1.1.0/
