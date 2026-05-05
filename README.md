@@ -22,11 +22,12 @@ shiny-hatbud/
 
 ## Current Version
 
-`v1.0.0` is the first accepted Shiny Hatbud pet version.
+`v1.1.0` is the current Shiny Hatbud pet version. It refines the head silhouette and ear-root shape while keeping the same cute original face.
 
 ## Releases
 
 - `releases/v1.0.0/` contains the initial accepted pet package and QA files.
+- `releases/v1.1.0/` contains the rounded-head iteration, QA files, and animation preview videos.
 
 ## Notes
 

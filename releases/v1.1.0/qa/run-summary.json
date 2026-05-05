@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "run_dir": "C:\\Users\\DG\\Documents\\New project 35\\hatch-pet-runs\\shiny-hatbud\\run-v3",
+  "spritesheet": "C:\\Users\\DG\\Documents\\New project 35\\hatch-pet-runs\\shiny-hatbud\\run-v3\\final\\spritesheet.webp",
+  "validation": "C:\\Users\\DG\\Documents\\New project 35\\hatch-pet-runs\\shiny-hatbud\\run-v3\\final\\validation.json",
+  "contact_sheet": "C:\\Users\\DG\\Documents\\New project 35\\hatch-pet-runs\\shiny-hatbud\\run-v3\\qa\\contact-sheet.png",
+  "review": "C:\\Users\\DG\\Documents\\New project 35\\hatch-pet-runs\\shiny-hatbud\\run-v3\\qa\\review.json",
+  "videos": "C:\\Users\\DG\\Documents\\New project 35\\hatch-pet-runs\\shiny-hatbud\\run-v3\\qa\\videos",
+  "package": "C:\\Users\\DG\\.codex\\pets\\shiny-hatbud"
+}
