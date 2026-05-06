@@ -23,10 +23,17 @@ Send this direct package link:
 
 [Download shiny-hatbud-latest.zip](https://github.com/DDGG123/shiny-hatbud-pet/raw/main/dist/shiny-hatbud-latest.zip)
 
-The zip contains a ready-to-copy `shiny-hatbud/` folder. Unzip it, then move that folder into:
+The zip root contains:
 
 ```text
-%USERPROFILE%\.codex\pets\
+pet.json
+spritesheet.webp
+```
+
+This layout can be uploaded directly to Petdex. For manual Codex installation, unzip those two files into:
+
+```text
+%USERPROFILE%\.codex\pets\shiny-hatbud\
 ```
 
 If someone downloads or clones the repository instead, they can run:

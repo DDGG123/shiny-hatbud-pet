@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Fixed the release zip layout for Petdex uploads so `pet.json` and `spritesheet.webp` sit at the archive root.
+
 ## v1.3.0
 
 - Added natural peach-pink blush under the eyes based on refreshed visual references.

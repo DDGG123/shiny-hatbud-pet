@@ -12,10 +12,10 @@
 
 历史版本资源位于 `releases/`：
 
-- `releases/v1.0.0/`：第一次接受的初始版本。
+- `releases/v1.0.0/`：第一版可用版本。
 - `releases/v1.1.0/`：头部轮廓和耳根形状优化后的迭代版本。
 - `releases/v1.2.0/`：移动动画修订版，地面移动更清晰，空中漂浮更依赖耳朵发力。
-- `releases/v1.3.0/`：极致可爱优化版，加入更自然的下眼粉红和更柔软的脸部。
+- `releases/v1.3.0/`：最终可爱度优化版，加入更自然的下眼粉红和更柔和的脸部。
 
 ## 快速分享
 
@@ -23,10 +23,17 @@
 
 [下载 shiny-hatbud-latest.zip](https://github.com/DDGG123/shiny-hatbud-pet/raw/main/dist/shiny-hatbud-latest.zip)
 
-zip 中已经包含可直接复制的 `shiny-hatbud/` 文件夹。解压后，将这个文件夹移动到：
+zip 根目录包含：
 
 ```text
-%USERPROFILE%\.codex\pets\
+pet.json
+spritesheet.webp
+```
+
+这个结构可以直接上传到 Petdex。手动安装到 Codex 时，把这两个文件解压到：
+
+```text
+%USERPROFILE%\.codex\pets\shiny-hatbud\
 ```
 
 如果对方下载或克隆了整个仓库，也可以直接运行：
@@ -55,7 +62,7 @@ shiny-hatbud/
 
 `v1.3.0` 是当前版本。
 
-这一版保留 v1.2.0 的移动逻辑，并整体优化脸部和轮廓：眼睛下方加入自然桃粉腮红，眼睛更亮，嘴改成小弯形，头部更圆润，整体更软糯干净。
+这一版保留 v1.2.0 的移动逻辑，并整体优化脸部和轮廓：眼睛下方加入自然桃粉腮红，眼睛更亮，嘴改成小弯形，头部更圆润，整体更柔软干净。
 
 ## 仓库结构
 
