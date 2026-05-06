@@ -1,4 +1,4 @@
-# Shiny Hatbud
+# Shiny Daermaodou
 
 [English](README.md) | **简体中文**
 
@@ -33,7 +33,7 @@ spritesheet.webp
 这个结构可以直接上传到 Petdex。手动安装到 Codex 时，把这两个文件解压到：
 
 ```text
-%USERPROFILE%\.codex\pets\shiny-hatbud\
+%USERPROFILE%\.codex\pets\shiny-daermaodou\
 ```
 
 如果对方下载或克隆了整个仓库，也可以直接运行：
@@ -47,13 +47,13 @@ powershell -ExecutionPolicy Bypass -File .\install.ps1
 将 `pet/` 目录中的文件复制到你的 Codex 宠物目录：
 
 ```text
-%USERPROFILE%\.codex\pets\shiny-hatbud\
+%USERPROFILE%\.codex\pets\shiny-daermaodou\
 ```
 
 期望的包结构如下：
 
 ```text
-shiny-hatbud/
+shiny-daermaodou/
   pet.json
   spritesheet.webp
 ```
@@ -63,6 +63,8 @@ shiny-hatbud/
 `v1.3.0` 是当前版本。
 
 这一版保留 v1.2.0 的移动逻辑，并整体优化脸部和轮廓：眼睛下方加入自然桃粉腮红，眼睛更亮，嘴改成小弯形，头部更圆润，整体更柔软干净。
+
+包元数据使用 `id: "shiny-daermaodou"` 和 `displayName: "Shiny Daermaodou"`，这样上传到图库时能明确识别为异色大耳帽兜。旧项目昵称是 Shiny Hatbud。
 
 ## 仓库结构
 
@@ -87,4 +89,4 @@ NOTICE.md
 
 ## 说明
 
-这是一个粉丝制作的衍生宠物资源。异色大耳帽兜 / 大耳帽兜及相关原始角色、作品、名称与商标权利归各自权利方所有。本仓库不是官方项目。
+这是一个粉丝制作的衍生宠物资源。Daermaodou / 大耳帽兜及相关原始角色、作品、名称与商标权利归各自权利方所有。本仓库不是官方项目。

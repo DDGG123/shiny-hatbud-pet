@@ -1,6 +1,6 @@
 {
-  "id": "shiny-hatbud",
-  "displayName": "Shiny Hatbud",
-  "description": "A compact Codex digital pet based on the shiny Daermaodou, a fluffy white long-eared ice rabbit spirit.",
+  "id": "shiny-daermaodou",
+  "displayName": "Shiny Daermaodou",
+  "description": "A fan-made Codex pet based on shiny Daermaodou / 大耳帽兜, the long-eared ice rabbit spirit from Roco Kingdom.",
   "spritesheetPath": "spritesheet.webp"
 }

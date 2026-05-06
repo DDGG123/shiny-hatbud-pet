@@ -1,4 +1,4 @@
-# Shiny Hatbud
+# Shiny Daermaodou
 
 **English** | [简体中文](README.zh-CN.md)
 
@@ -33,7 +33,7 @@ spritesheet.webp
 This layout can be uploaded directly to Petdex. For manual Codex installation, unzip those two files into:
 
 ```text
-%USERPROFILE%\.codex\pets\shiny-hatbud\
+%USERPROFILE%\.codex\pets\shiny-daermaodou\
 ```
 
 If someone downloads or clones the repository instead, they can run:
@@ -47,22 +47,24 @@ powershell -ExecutionPolicy Bypass -File .\install.ps1
 Copy the files in `pet/` into your Codex pet directory:
 
 ```text
-%USERPROFILE%\.codex\pets\shiny-hatbud\
+%USERPROFILE%\.codex\pets\shiny-daermaodou\
 ```
 
 Expected package layout:
 
 ```text
-shiny-hatbud/
+shiny-daermaodou/
   pet.json
   spritesheet.webp
 ```
 
 ## Current Version
 
-`v1.3.0` is the current Shiny Hatbud pet version.
+`v1.3.0` is the current Shiny Daermaodou pet version.
 
 It keeps the improved v1.2.0 movement, then polishes the face and silhouette: natural peach-pink blush under the eyes, brighter teal eyes, a tiny curved mouth, rounder head, and cleaner soft proportions.
+
+The package metadata uses `id: "shiny-daermaodou"` and `displayName: "Shiny Daermaodou"` so gallery uploads identify it as the shiny 大耳帽兜 character. The older project nickname was Shiny Hatbud.
 
 ## Repository Layout
 
@@ -87,4 +89,4 @@ NOTICE.md
 
 ## Notes
 
-This is a fan-made derivative pet asset. Shiny Daermaodou / 大耳帽兜 and related source character rights belong to their respective owners. This repository is not official.
+This is a fan-made derivative pet asset. Daermaodou / 大耳帽兜 and related source character rights belong to their respective owners. This repository is not official.

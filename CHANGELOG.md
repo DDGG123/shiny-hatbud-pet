@@ -3,6 +3,7 @@
 ## Unreleased
 
 - Fixed the release zip layout for Petdex uploads so `pet.json` and `spritesheet.webp` sit at the archive root.
+- Updated the current package metadata to `Shiny Daermaodou` / `shiny-daermaodou` so gallery uploads identify the 大耳帽兜 inspiration clearly.
 
 ## v1.3.0
 
